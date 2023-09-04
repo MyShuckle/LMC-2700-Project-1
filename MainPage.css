@@ -1,11 +1,10 @@
-#introduction h1 {
+h1 {
     font-size: 48px;
     margin-top: 160px;
     text-align: center;
 }
 
-#introduction p 
-{
+p {
     font-size: 36px;
     margin-top: 320px;
     text-align: center;
