@@ -1,0 +1,33 @@
+div h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 48px;
+    color: red;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+image {
+    float: left;
+}
+
+h2 {
+    float: right;
+    font-size: 42px;
+    margin-top: 100px;
+}
+
+h3 {
+    font-size: 36px;
+    float: right;
+    margin-top: 100px;
+}
+
+p {
+    font-size: 36px;
+    font-family: Arial;
+}
+
+* {
+    background-color: aliceblue;
+}

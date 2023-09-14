@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: greenyellow;
+    font-size: 48px;
+}
+
+#dislike {
+    color: red;
+}
+
+p {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 42px;
+    margin-left: 25px;
+}
+
+* {
+    background-color: aliceblue;
+}
