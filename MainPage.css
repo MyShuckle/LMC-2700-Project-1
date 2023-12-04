@@ -42,3 +42,17 @@ p, h2 {
 a:hover {
     background-color: black;
 }
+=======
+#introduction h1 {
+    font-size: 48px;
+    margin-top: 160px;
+    text-align: center;
+}
+
+#introduction p 
+{
+    font-size: 36px;
+    margin-top: 320px;
+    text-align: center;
+}
+>>>>>>> bd61fc080eb775c9c77366a63642a736c23b6cc3
