@@ -28,3 +28,13 @@ h2 {
 .tabletext {
     font-size: 28px;
 }
+
+.GreenLike {
+    font-size: 36px;
+    color: greenyellow;
+}
+
+.RedLike {
+    font-size: 36px;
+    color: red;
+}

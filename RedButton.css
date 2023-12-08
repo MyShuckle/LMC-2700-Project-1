@@ -21,6 +21,22 @@ h2 {
     font-size: 28px;
 }
 
+#Question1 {
+    color: red;
+}
+
+#Question2 {
+    color: yellow;
+}
+
+#Question3 {
+    color: greenyellow;
+}
+
+#Question4 {
+    color: blue;
+}
+
 h3 {
     font-size: 36px;
     float: right;
